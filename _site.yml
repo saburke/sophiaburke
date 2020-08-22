@@ -1,3 +1,4 @@
+
 name: "personal-website"
 output_dir: "."
 navbar:
@@ -7,11 +8,11 @@ navbar:
     - text: "Dr. Sophia Burke"
       icon: fa-home
       href: index.html
-      menu:
-        - text: "CV"
-          href: CV.html
-        - text: "My Research"
-          href: research.html
+      #menu:
+    - text: "CV"
+      href: CV.html
+    - text: "My Research"
+      href: research.html
   right:
     - icon: fa-envelope fa-lg
       href: Social.html
@@ -24,7 +25,7 @@ navbar:
 
 output:
     html_document:
-      theme: flatly
+      theme: lumens
       include:
         after_body: footer.html
       css: style.css  

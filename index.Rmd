@@ -1,6 +1,15 @@
 ---
-title: "Hello! My name is Sophia but my friends call me Sophie. I use she/her pronouns."
-output: html_document
+title: "A curiosity driven Research Scientist with expertise in Peatland Biogeochemistry"
 ---
+<div class = "row">
+  
+<div class = "col-md-3">
 
-I love to read, hike, telemark ski, and cook with my partner John, and I sew things.
+![](/Users/Sophie/Desktop/AdultLife/Github_PersonalWebsite/sophiaburke/images/SBurke_ProfessionalPhoto.png)
+</div>
+
+
+Hello there! My name is Sophia but my friends call me Sophie. I use she/her pronouns.
+
+I love to read, hike, telemark ski, and cook with my partner John, oh and I sew things.
+
