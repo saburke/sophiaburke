@@ -8,10 +8,10 @@ navbar:
       icon: fa-home
       href: index.html
       menu:
-        - text: "Research"
-          href: research.html
         - text: "CV"
           href: CV.html
+        - text: "My Research"
+          href: research.html
   right:
     - icon: fa-envelope fa-lg
       href: Social.html
@@ -24,6 +24,7 @@ navbar:
 
 output:
     html_document:
+      theme: flatly
       include:
         after_body: footer.html
       css: style.css  
