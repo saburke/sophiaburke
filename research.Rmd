@@ -1,0 +1,16 @@
+---
+title: " "
+
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My PhD work centered on sub-arctic peatlands with a particular focus on methane (CH4) emissions from peatland thaw ponds.
+
+My main study site is Stordalen Mire, in northern Sweden, 200 km within the Arctic Circle. I used a combination of manual measurements, remote sensing (UAV imagery collection), and acoustical measurements to compile a seven year data set of ebullitive, or bubbling, measurements from these small ponds collected during the growing season (June - August).
+
+My dissertation can be found [here](https://search-proquest-com.unh.idm.oclc.org/pqdtlocal1006039/docview/2423474482/19D86416B74641C2PQ/1?accountid=14612) 
+
