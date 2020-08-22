@@ -1,13 +1,1 @@
-/* this code below causes the "black" bar across the top to now go down the left side */ 
-.navbar {
-        margin: 0;
-        padding: 0;
-        height: 100%;
-        display: block;
-        position: fixed;
-        width: 200px; /* Modify the width of the sidebar */
-      }
-      body {
-        margin-left: 200px; /* Add a left margin to avoid content overlay */
-        padding-top:10px
-      }  
+ 

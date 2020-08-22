@@ -1,12 +1,7 @@
 ---
-title: " "
-
+title: "research"
 output: html_document
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 My PhD work centered on sub-arctic peatlands with a particular focus on methane (CH4) emissions from peatland thaw ponds.
 

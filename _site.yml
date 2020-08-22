@@ -8,7 +8,7 @@ navbar:
       icon: fa-home
       href: index.html
       menu:
-        - text: "Past Research"
+        - text: "Research"
           href: research.html
         - text: "CV"
           href: CV.html

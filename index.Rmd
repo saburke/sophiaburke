@@ -1,5 +1,6 @@
 ---
 title: "Hello! My name is Sophia but my friends call me Sophie. I use she/her pronouns."
+output: html_document
 ---
 
-hi
+I love to read, hike, telemark ski, and cook with my partner John, and I sew things.

@@ -1,6 +1,6 @@
 ---
 title: "Curriculum vitae"
 date: "Last updated 8/4/2020"
+output: html_document
 ---
 
-hi

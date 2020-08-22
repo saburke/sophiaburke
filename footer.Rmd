@@ -1,6 +1,5 @@
 ---
-title: " "
+title: "&nbsp;"
 output: html_document
 ---
 
- Copyright &copy; 2020 Sophia A Burke
