@@ -1,12 +1,8 @@
 
 /* this is supposed to set the size of the images in the pages? */
 img {
-width: 200px;
+width: 800px;
 display: block;
 margin: 0 auto;
 }
 
-body{
-  font-family: Comic Sans MS;
-  font-size: 16pt;
-}

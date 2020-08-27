@@ -2,4 +2,9 @@
 title: "&nbsp;"
 output: html_document
 ---
+<span style= font-family:Comic Sans MS>
 
+&nbsp; 
+<hr />
+<p style="text-align: center;">Copyright &copy; 2020 Sophia A Burke </p>
+</span>

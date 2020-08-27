@@ -4,16 +4,20 @@ title: <div style="text-align:center"><span style='color:#8856a7; font-size:30pt
 ---
 <div style= "font-family: Comic Sans MS">
 
-![](/Users/Sophie/Desktop/AdultLife/Github_PersonalWebsite/sophiaburke/images/SBurke_ProfessionalPhoto.png)
+<div class= row>
+<div class = "col-md-6">
 
+![_Image credit:_ Grace Delgado](/Users/Sophie/Desktop/AdultLife/Github_PersonalWebsite/sophiaburke/images/SBurke_ProfessionalPhoto.png)
+
+</div>
+
+<div class = "col-md-5">
 Hello there! My name is Sophia but my friends call me Sophie. I use she/her pronouns.
 
 I love to read, hike, telemark ski, and cook with my partner John, oh and I sew things.
 
-
-
-&nbsp; 
-<hr />
-<p style="text-align: center;">Copyright &copy; 2020 Sophia A Burke </p>
-
 </div>
+
+
+
+
