@@ -1,11 +1,28 @@
 ---
-title: "research"
-output: html_document
+title: <div style="text-align:center"><span style='color:#8856a7;   font-size:30pt;font-weight:100;font-family:Comic Sans MS;font-align:center'> My Research  </span></div>
+
 ---
+<div style="font-family:Comic Sans MS">
 
-My PhD work centered on sub-arctic peatlands with a particular focus on methane (CH4) emissions from peatland thaw ponds.
+#  Dissertation Work (2014 - 2020)
+## Project Focus
+My PhD work centered on sub-arctic peatlands with a particular focus on methane (CH^4) emissions from peatland thaw ponds.
 
+## Study Site
 My main study site is Stordalen Mire, in northern Sweden, 200 km within the Arctic Circle. I used a combination of manual measurements, remote sensing (UAV imagery collection), and acoustical measurements to compile a seven year data set of ebullitive, or bubbling, measurements from these small ponds collected during the growing season (June - August).
 
+## More information
 My dissertation can be found [here](https://search-proquest-com.unh.idm.oclc.org/pqdtlocal1006039/docview/2423474482/19D86416B74641C2PQ/1?accountid=14612) 
 
+# Fulbright Fellowship (2015)
+## Project Focus
+
+## Study Site
+
+## More Information
+
+&nbsp; 
+<hr />
+<p style="text-align: center;">Copyright &copy; 2020 Sophia A Burke </p>
+
+</div>

@@ -1,17 +1,20 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  type: inverse
+  type: default
   title: ""
   left:
     - text: "Dr. Sophia A. Burke"
       icon: fa-home
       href: index.html
-      #menu:
-    - text: "CV"
-      href: CV.html
-    - text: "My Research"
-      href: research.html
+      menu:
+        - text: "Home"
+          href: index.html
+        - text: "My Research"
+          href: research.html
+        - text: "CV"
+          href: CV.html
+        
   right:
     - icon: fa-envelope fa-lg
       href: Social.html
@@ -23,8 +26,11 @@ navbar:
       href: https://linkedin.com/in/sophia-a-burke  
 
 output:
-  html_document:
-    theme: lumens
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github #vignette
+  #html_document:
+   # theme:
     include:
       after_body: footer.html
     css: style.css  
