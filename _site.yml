@@ -1,11 +1,10 @@
-
 name: "personal-website"
 output_dir: "."
 navbar:
   type: inverse
   title: ""
   left:
-    - text: "Dr. Sophia Burke"
+    - text: "Dr. Sophia A. Burke"
       icon: fa-home
       href: index.html
       #menu:
@@ -24,9 +23,9 @@ navbar:
       href: https://linkedin.com/in/sophia-a-burke  
 
 output:
-    html_document:
-      theme: lumens
-      include:
-        after_body: footer.html
-      css: style.css  
+  html_document:
+    theme: lumens
+    include:
+      after_body: footer.html
+    css: style.css  
        

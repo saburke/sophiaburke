@@ -1,19 +1,7 @@
-/* this is for putting a background image in the website! Cool! but then it broke....
-body {
-  background-image: url('https://linesteppers.com/tutorials/RMarkdown/img/BannerImage_TreeBlossoms_4470x3024.jpg');
-  background-repeat: no-repeat;
-  background-size: 100%;
-}
-
-div {
-  background-color: rgba(255, 255, 255, 0.35);  
-  padding: 0.25em;
-}
-*/
 
 /* this is supposed to set the size of the images in the pages? */
 img {
-width: 600px;
+width: 400px;
 display: block;
 margin: 0 auto;
 }
