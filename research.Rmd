@@ -1,34 +1,85 @@
 ---
-title: <div style="text-align:center"><span style='color:#8856a7;   font-size:30pt;font-weight:100;font-family:Comic Sans MS;font-align:center'> My Research  </span></div>
+title: <div style="text-align:center"><span style='color:#000000;   font-size:30pt;font-weight:100;font-family:Comic Sans MS;font-align:center'> Research Experience  </span></div>
 
 ---
 <div style="font-family:Comic Sans MS">
 
-<h1>Dissertation Work (2014 - 2020) </h1>
+<center>
+<h1>**Dissertation Work** </h1>
+<h3> _University of New Hampshire (2014-2020)_ </h3>
+</center>
 <br>
-<h2> Project Focus </h2> 
+<h2>Project Focus</h2> 
 <div class = "col-md-5">
-My PhD work centered on sub-arctic peatlands with a particular focus on methane (CH^4) emissions from peatland thaw ponds.
+My PhD work centered on sub-arctic peatlands with a particular focus on methane (CH~4~) emissions from peatland thaw ponds.
+
+_Investigating the spatial and temporal scale variability of ebullitive flux from a subarctic thaw pond system_
+<br>
+<h5>**Dissertation Chapters:**</h5>
+  1. Long term measurements of methane ebullition from thaw ponds [Burke et al. (2019); _JGR Biogeosciences_](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JG004786)
+  2. Using unmanned aerial systems to monitor the change in thaw pond size over five growing seasons: Implications for CH~4~ ebullitive flux (in prep)
+  3. Using acoustic techniques to monitor CH~4~ ebullition in subarctic thaw ponds
+<br>  
 </div>
 <div class = "col-md-7">
-![](/Users/Sophie/Desktop/AdultLife/Github_PersonalWebsite/sophiaburke/images/IMG_3313.jpeg)
+<figure>
+  <img src= "images/IMG_3313.jpeg">
+  <figcaption>A thaw pond at Stordalen Mire, with some autochambers seen to the right of the pond.</figcaption>
+</figure>
+<br><br><br><br>
 </div>
-<br>
+
+<br><br><br><br>
+
 <h2> Study Site </h2>
 <br>
 My main study site is Stordalen Mire, in northern Sweden, 200 km within the Arctic Circle. I used a combination of manual measurements, remote sensing (UAV imagery collection), and acoustical measurements to compile a seven year data set of ebullitive, or bubbling, measurements from these small ponds collected during the growing season (June - August).
 
-<br>
-<h2> More information </h2>
+<br><br><br>
+<h4> More information: </h4>
 <br>
 My dissertation can be found [here](https://search-proquest-com.unh.idm.oclc.org/pqdtlocal1006039/docview/2423474482/19D86416B74641C2PQ/1?accountid=14612) 
+<br>
+<br>
+<br>
+<br><br><br>
 
-<h1> Fulbright Fellowship (2015) </h1>
+<center>
+<h1> **Fulbright US Graduate Fellowship**  </h1>
+<h3> _University of Waikato, New Zealand (2015)_</h3>
+</center>
+<br>
+<br>
 <h2> Project Focus </h2>
 
+<br><br><br><br>
 <h2> Study Site </h2>
+<center>
+<figure>
+  <img src= "images/IMG_2255.jpg">
+  <figcaption>View of the solar panels used to power the EC tower at Kopuatai Peat Dome</figcaption>
+</figure>
+</center>
 
-<h2> More Information </h2>
+<br>
+<br>
+<br>
+
+<div class= "col-md-8">
+<br>
+This research was conducted at Kopuatai Peat Dome, the largest undisturbed peatland left in New Zealand, located in the Waikato Region of the North Island.
+</div>
+<div class="col-md-4">
+<figure>
+  <img src= "images/IMG_2244.png">
+  <figcaption>Eddy covariance tower at the site with CO~2~/H~2~0 and CH~4~ instruments attached to the horizontal boom (top right corner). The data logger box is to the left of the tower base.</figcaption>
+</figure>
+
+</div>
+<br>
+<br>
+<br><br><br><br>
+<h4> More Information: </h4>
 
 <br>
 

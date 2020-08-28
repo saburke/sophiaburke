@@ -10,7 +10,7 @@ navbar:
       menu:
         - text: "Home"
           href: index.html
-        - text: "My Research"
+        - text: "Research Experience"
           href: research.html
         - text: "CV"
           href: CV.html
@@ -20,6 +20,8 @@ navbar:
       href: Social.html
     #- icon: fa-github fa-lg
     #  href: https://github.com/saburke
+    - icon: fa-graduation-cap fa-lg
+      href: https://scholar.google.com/citations?user=S1qTE8UAAAAJ&hl=en&oi=sra
     - icon: fa-twitter fa-lg
       href: https://twitter.com/bubblyburke
     - icon: fa-linkedin fa-lg
@@ -33,5 +35,6 @@ output:
    # theme:
     include:
       after_body: footer.html
-    css: style.css  
+    css: style.css 
+      
        

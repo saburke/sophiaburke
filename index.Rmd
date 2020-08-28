@@ -1,20 +1,28 @@
 ---
-title: <div style="text-align:center"><span style='color:#8856a7; font-size:30pt;font-weight:100;font-family:Comic Sans MS;font-align:center'> A curiosity driven Research Scientist with expertise in Peatland Biogeochemistry </span> </div>
+title: <div style="text-align:center"><span style='color:#000000; font-size:30pt;font-weight:100;font-family:Comic Sans MS;font-align:center'> A curiosity driven Research Scientist with expertise in Peatland Biogeochemistry </span> </div>
 # get [Warning] message about nonempty <title> element. the internet says ignore it.
 ---
 <div style= "font-family: Comic Sans MS">
 
+
 <div class= row>
 <div class = "col-md-6">
 
-![_Image credit:_ Grace Delgado](/Users/Sophie/Desktop/AdultLife/Github_PersonalWebsite/sophiaburke/images/SBurke_ProfessionalPhoto.png)
+<figure>
+  <img src= "images/SBurke_ProfessionalPhoto.png">
+  <figcaption>_Photo Credit_: Grace Delgado</figcaption>
+</figure>
 
 </div>
 
 <div class = "col-md-5">
-Hello there! My name is Sophia but my friends call me Sophie. I use she/her pronouns.
+<h1> Hello there!</h1>
+<h3>My name is Sophia but my friends call me Sophie. <br><br>I use she/her pronouns. </h3>
 
-I love to read, hike, telemark ski, and cook with my partner John, oh and I sew things.
+
+
+<br><br><br>
+When I'm not doing science, I love to read YA novels, hike, telemark ski, cook with my partner John, and sew things!
 
 </div>
 
