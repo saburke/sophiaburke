@@ -1,10 +1,8 @@
 ---
-title: <div style="text-align:center"><span style='color:#000000; font-size:30pt;font-weight:100;font-family:Comic Sans MS;font-align:center'> A curiosity driven Research Scientist with expertise in Peatland Biogeochemistry </span> </div>
+title: <div style="text-align:center"><span style='color:#000000; font-size:30pt;font-weight:100;font-family:Helvetica;font-align:center'> A curiosity driven Research Scientist with expertise in Peatland Biogeochemistry </span> </div>
 # get [Warning] message about nonempty <title> element. the internet says ignore it.
 ---
-<div style= "font-family: Comic Sans MS">
-
-
+<div style= "font-family: Helvetica">
 <div class= row>
 <div class = "col-md-6">
 
@@ -18,13 +16,15 @@ title: <div style="text-align:center"><span style='color:#000000; font-size:30pt
 <div class = "col-md-5">
 <h1> Hello there!</h1>
 <h3>My name is Sophia but my friends call me Sophie. <br><br>I use she/her pronouns. </h3>
+<br>
+As a peatland biogeochemist I am interested in exploring the influence of peatland areas on the global carbon cycle, in particular how rising global temperatures are impacting the ability of peatlands to hold on to the carbon stored within them. I have extensive experience in monitoring methane (CH~4~) ebullition (bubbling) from subarctic peatland ponds that form due to permafrost thaw. For my PhD I monitored eight thaw ponds at Stordalen Mire in subarctic Sweden using a combination of manual measurements, acoustic measurements and remote sensing. I have traveled to northern Finland and Canada to conduct fieldwork for research projects that are focused on modeling CH~4~ emissions across the arctic. I also spent a year in New Zealand on a Fulbright Fellowship studying the effects of drought on CH~4~ emissions from the Kopuatai Peat Dome in the Waikato Region of the North Island through the use of aboveground eddy covariance measurements and belowground measurements such as porewatersampling and peat incubations.   
 
-
-
-<br><br><br>
-When I'm not doing science, I love to read YA novels, hike, telemark ski, cook with my partner John, and sew things!
+<br><br>
+When I'm not doing science, I love to read novels, hike, telemark ski, cook with my partner John, and sew things!
 
 </div>
+
+
 
 
 

@@ -1,10 +1,14 @@
 ---
-title: <div style="text-align:center"><span style='color:#000000; font-size:30pt;font-weight:100;font-family:Comic Sans MS;font-align:center'> Curriculum Vitae </span></div>
+title: <div style="text-align:center"><span style='color:#000000; font-size:30pt;font-weight:100;font-family:Helvetica;font-align:center'> Curriculum Vitae </span></div>
 ---
-<span style="font-family:Comic Sans MS">
+<span style="font-family:Helvetica">
 
-
-
-You can find a .pdf version of my CV here. 
+You can find a .pdf version of my CV [here](https://drive.google.com/file/d/19N_IQsvnttz5mG01SHL9GW9YksdY6lR0/view?usp=sharing). Last updated: September 2020. 
+<br>
+[Google Scholar Profile](https://scholar.google.com/citations?user=S1qTE8UAAAAJ&hl=en&oi=sra)
+<br>
+[ORCID](https://orcid.org/0000-0002-5933-2347)
+<br>
+[LinkedIn](https://linkedin.com/in/sophia-a-burke)
 
 </span>

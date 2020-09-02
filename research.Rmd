@@ -1,9 +1,8 @@
 ---
-title: <div style="text-align:center"><span style='color:#000000;   font-size:30pt;font-weight:100;font-family:Comic Sans MS;font-align:center'> Research Experience  </span></div>
+title: <div style="text-align:center"><span style='color:#000000;   font-size:30pt;font-weight:100;font-family:Helvetica;font-align:center'> Research Experience  </span></div>
 
 ---
-<div style="font-family:Comic Sans MS">
-
+<div style="font-family:Helvetica">
 <center>
 <h1>**Dissertation Work** </h1>
 <h3> _University of New Hampshire (2014-2020)_ </h3>
@@ -26,60 +25,81 @@ _Investigating the spatial and temporal scale variability of ebullitive flux fro
   <img src= "images/IMG_3313.jpeg">
   <figcaption>A thaw pond at Stordalen Mire, with some autochambers seen to the right of the pond.</figcaption>
 </figure>
-<br><br><br><br>
+<br>
 </div>
 
-<br><br><br><br>
+<br><br>
 
-<h2> Study Site </h2>
-<br>
-My main study site is Stordalen Mire, in northern Sweden, 200 km within the Arctic Circle. I used a combination of manual measurements, remote sensing (UAV imagery collection), and acoustical measurements to compile a seven year data set of ebullitive, or bubbling, measurements from these small ponds collected during the growing season (June - August).
-
+<h3> Study Site </h3>
+My main study site is [Stordalen Mire](https://www.icos-sweden.se/station_stordalen.html), in northern Sweden, 200 km within the Arctic Circle. I used a combination of manual measurements, remote sensing (UAV imagery collection), and acoustical measurements to compile a seven year data set of ebullitive, or bubbling, measurements from these small ponds collected during the growing season (June - August).
 <br><br><br>
-<h4> More information: </h4>
+<div class = "col-md-6">
+<figure>
+  <img src= "images/IMG_4494.png">
+  <figcaption>Landing a quadcopter UAS at Stordalen Mire. _Photo Credit_: Ruth Varner.</figcaption>
+</figure>
+</div>
+
 <br>
+<div class = "col-md-6">
+<figure>
+  <img src= "images/IMG_4452.png">
+  <figcaption>Manual sampling of some floating bubble traps. _Photo Credit_: Ruth Varner.</figcaption>
+</figure>
+</div>
+<div class = "col-md-6">
+<figure>
+  <img src= "images/AcousticSystem.png">
+  <figcaption>Schematic showing acoustic bubble trap system.a) floating bubble trap, b) temperature loggers, c.) hydrophone, d.) recording device.
+  </figcaption>
+</figure>
+</div>
+<br><br><br><br><br><br><br><br><br><br>
 My dissertation can be found [here](https://search-proquest-com.unh.idm.oclc.org/pqdtlocal1006039/docview/2423474482/19D86416B74641C2PQ/1?accountid=14612) 
-<br>
-<br>
-<br>
-<br><br><br>
+</div>
 
+
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 <center>
-<h1> **Fulbright US Graduate Fellowship**  </h1>
+<h2> **Additional Research Experience of Note**  </h2>
+<h3> _Fulbright US Graduate Fellowship_</h3>
 <h3> _University of Waikato, New Zealand (2015)_</h3>
 </center>
 <br>
 <br>
-<h2> Project Focus </h2>
+<h3> Project Summary </h3>
+Field site: [Kopuatai Peat Dome](https://www.doc.govt.nz/nature/habitats/wetlands/wetlands-by-region/waikato/kopuatai-peat-dome/), Waikato Region
+<br>
+Title: _Effect of drought on CH~4~ flux from Kopuatai Peat bog, Waikato: aboveground and belowground evidence_
 
-<br><br><br><br>
-<h2> Study Site </h2>
-<center>
-<figure>
-  <img src= "images/IMG_2255.jpg">
-  <figcaption>View of the solar panels used to power the EC tower at Kopuatai Peat Dome</figcaption>
-</figure>
-</center>
-
-<br>
-<br>
-<br>
+My Fulbright project expanded upon previous work at this site by [Goodrich et al. (2015)](https://agupubs-onlinelibrary-wiley-com.unh.idm.oclc.org/doi/full/10.1002/2014JG002844) which found a strong hysteretic response of CH~4~ emissions post drought. My project paired aboveground eddy covariance measurements with nearby belowground measurements of porewater CH~4~ concentration and extracted peat cores used for incubations to see how rates of CH~4~ production varied at this site during a late-summer drought.      
 
 <div class= "col-md-8">
 <br>
-This research was conducted at Kopuatai Peat Dome, the largest undisturbed peatland left in New Zealand, located in the Waikato Region of the North Island.
+<figure>
+  <img src= "images/P1080554.png">
+  <figcaption>Porewater sampling at Kopuatai._Photo Credit_: Dave Campbell.</figcaption>
+</figure>
 </div>
 <div class="col-md-4">
 <figure>
   <img src= "images/IMG_2244.png">
   <figcaption>Eddy covariance tower at the site with CO~2~/H~2~0 and CH~4~ instruments attached to the horizontal boom (top right corner). The data logger box is to the left of the tower base.</figcaption>
 </figure>
-
 </div>
-<br>
+<center>
+<figure>
+  <img src= "images/IMG_2255.jpg">
+  <figcaption>View of the solar panels used to power the EC tower at Kopuatai Peat Dome</figcaption>
+</figure>
+</center>
 <br>
 <br><br><br><br>
 <h4> More Information: </h4>
+Check out other research done by the Waikato Biogeochemistry and Ecohydrology Research group, [WaiBER](https://waiber.com/), out of Waikato University, with whom I worked on my Fulbright Research project.  
 
 <br>
 

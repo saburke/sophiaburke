@@ -6,4 +6,5 @@ output: html_document
 
 &nbsp; 
 <hr />
-<p style="text-align: center;font-family:Comic Sans MS">Copyright &copy; 2020 Sophia A Burke </p>
+<p style="text-align: center;font-family:Helvetica">This website was made using RMarkdown </p>
+<p style="text-align: center;font-family:Helvetica">Copyright &copy; 2020 Sophia A Burke </p>

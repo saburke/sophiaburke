@@ -2,9 +2,9 @@ name: "personal-website"
 output_dir: "."
 navbar:
   type: default
-  title: ""
+  title: "Dr. Sophia A. Burke"
   left:
-    - text: "Dr. Sophia A. Burke"
+    - text: "Menu"
       icon: fa-home
       href: index.html
       menu:
@@ -17,15 +17,17 @@ navbar:
         
   right:
     - icon: fa-envelope fa-lg
+      text: "Contact"
       href: Social.html
-    #- icon: fa-github fa-lg
-    #  href: https://github.com/saburke
-    - icon: fa-graduation-cap fa-lg
-      href: https://scholar.google.com/citations?user=S1qTE8UAAAAJ&hl=en&oi=sra
+    #- icon: fa-graduation-cap fa-lg
+     # text: "Google Scholar Profile"
+      #href: https://scholar.google.com/citations?user=S1qTE8UAAAAJ&hl=en&oi=sra
+    - icon: fa-github fa-lg
+      href: https://github.com/saburke
     - icon: fa-twitter fa-lg
       href: https://twitter.com/bubblyburke
-    - icon: fa-linkedin fa-lg
-      href: https://linkedin.com/in/sophia-a-burke  
+    #- icon: fa-linkedin fa-lg
+     # href: https://linkedin.com/in/sophia-a-burke  
 
 output:
   prettydoc::html_pretty:
