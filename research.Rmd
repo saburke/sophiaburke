@@ -1,87 +1,87 @@
 ---
 title: <div style="text-align:center"><span style='color:#000000;   font-size:30pt;font-weight:100;font-family:Helvetica;font-align:center'> Research Experience  </span></div>
-
 ---
-<div style="font-family:Helvetica">
-<center>
-<h1>**Dissertation Work** </h1>
-<h3> _University of New Hampshire (2014-2020)_ </h3>
-</center>
-<br>
-<h2>Project Focus</h2> 
-<div class = "col-md-5">
-My PhD work centered on sub-arctic peatlands with a particular focus on methane (CH~4~) emissions from peatland thaw ponds.
+<div style="font-family:Helvetica"><!--set font family for the whole page-->
+<div style="text-align:center"><span style='font-size:30pt;font-weight:300;font-family:Helvetica;font-align:center'>**Dissertation Work**</span></div><!--end div style above-->
 
-_Investigating the spatial and temporal scale variability of ebullitive flux from a subarctic thaw pond system_
+<!-- line across the page -->
+
+<div style="text-align:center"><span style='font-size:20pt;font-weight:300;font-family:Helvetica;font-align:center'> _University of New Hampshire (2014-2020)_</span></div><!--end div style command above-->
 <br>
-<h5>**Dissertation Chapters:**</h5>
+<div style="text-align:left"><span style='font-size:18pt;font-weight:200;font-family:Helvetica;font-align:left'> **Project Summary** </span></div> <!--end div style command above-->
+<br>
+<div class = "col-md-5"><span style = 'font-size:14pt; font-weight:100'> My PhD work centered on sub-arctic peatlands with a particular focus on methane (CH~4~) emissions from peatland thaw ponds.</span> <!--end the span command above-->   
+<br>
+<br>
+**Title**: _Investigating the spatial and temporal scale variability of ebullitive flux from a subarctic thaw pond system_
+<br>
+<br>
+<span style='font-size:12pt;font-weight:100;font-family:Helvetica;font-align:center'> **Dissertation Chapters**</span> <!--end the span command above-->
+<br>
   1. Long term measurements of methane ebullition from thaw ponds [Burke et al. (2019); _JGR Biogeosciences_](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JG004786)
+  <br>
   2. Using unmanned aerial systems to monitor the change in thaw pond size over five growing seasons: Implications for CH~4~ ebullitive flux (in prep)
+  <br>
   3. Using acoustic techniques to monitor CH~4~ ebullition in subarctic thaw ponds
-<br>  
-</div>
-<div class = "col-md-7">
-<figure>
-  <img src= "images/IMG_3313.jpeg">
-  <figcaption>A thaw pond at Stordalen Mire, with some autochambers seen to the right of the pond.</figcaption>
-</figure>
 <br>
+<br>
+<span style='font-size:14pt;font-weight:200;font-family:Helvetica;font-align:center'> _My dissertation can be found_ [_here_](https://search.proquest.com/openview/6ebc354ac0f543a0a9fbfdaf616214b5/1?cbl=18750&diss=y&pq-origsite=gscholar)</span>
+</div>  
+<br>
+<div class = "col-md-7"> 
+<figure><img src= "images/IMG_3313.jpeg"><figcaption> A thaw pond at Stordalen Mire, with some autochambers seen to the right of the  pond.</figcaption></figure>
+</div>
+<br>
+<br>
+<div class = "col-md-12">
+<div style="text-align:left"><span style=font-size:18pt;font-weight:200;font-family:Helvetica;font-align:left'> **Study Site**</span>
 </div>
 
-<br><br>
-
-<h3> Study Site </h3>
+<br>
 My main study site is [Stordalen Mire](https://www.icos-sweden.se/station_stordalen.html), in northern Sweden, 200 km within the Arctic Circle. I used a combination of manual measurements, remote sensing (UAV imagery collection), and acoustical measurements to compile a seven year data set of ebullitive, or bubbling, measurements from these small ponds collected during the growing season (June - August).
+</div> <!--for div class above-->
 <br><br><br>
-<div class = "col-md-6">
-<figure>
-  <img src= "images/IMG_4494.png">
-  <figcaption>Landing a quadcopter UAS at Stordalen Mire. _Photo Credit_: Ruth Varner.</figcaption>
-</figure>
-</div>
-
+<div class = "col-md-6"><figure><img src= "images/IMG_4494.png"><figcaption> Landing a quadcopter UAS at Stordalen Mire. _Photo Credit_: Ruth Varner.</figcaption></figure>
+</div> <!--for div class above-->
+  
 <br>
-<div class = "col-md-6">
+<div class = "col-md-5"><figure><img src= "images/IMG_4452.png"><figcaption> Manual sampling of some floating bubble traps. _Photo Credit_: Ruth Varner.</figcaption></figure>
+</div> <!--for div class above-->
+  
+<div class = "col-md-5">
 <figure>
-  <img src= "images/IMG_4452.png">
-  <figcaption>Manual sampling of some floating bubble traps. _Photo Credit_: Ruth Varner.</figcaption>
-</figure>
-</div>
-<div class = "col-md-6">
-<figure>
-  <img src= "images/AcousticSystem.png">
+ <img src= "images/AcousticSystem.png">
   <figcaption>Schematic showing acoustic bubble trap system.a) floating bubble trap, b) temperature loggers, c.) hydrophone, d.) recording device.
   </figcaption>
 </figure>
-</div>
-<br><br><br><br><br><br><br><br><br><br>
-My dissertation can be found [here](https://search-proquest-com.unh.idm.oclc.org/pqdtlocal1006039/docview/2423474482/19D86416B74641C2PQ/1?accountid=14612) 
-</div>
+</div> <!--for div class above-->
+<br>
 
+<br><br><br><br><br>
+<div style="text-align:center"><span style=   font-size:30pt;font-weight:300;font-family:Helvetica;font-align:center'> **Additional Noteworthy Research Expereince**  </span></div>
+***
+<div style="text-align:center"><span style='color:#000000;   font-size:25pt;font-weight:300;font-family:Helvetica;font-align:center'> _Fulbright US Graduate Fellowship_ </span></div>
 
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
+<div style="text-align:center"><span style='color:#000000;   font-size:25pt;font-weight:300;font-family:Helvetica;font-align:center'> _University of Waikato, New Zealand (2015)_ </span></div>
+<br>
 <center>
-<h2> **Additional Research Experience of Note**  </h2>
-<h3> _Fulbright US Graduate Fellowship_</h3>
-<h3> _University of Waikato, New Zealand (2015)_</h3>
+<figure>
+  <img src= "images/IMG_2255.jpg">
+  <figcaption>View of the solar panels used to power the EC tower at Kopuatai Peat Dome</figcaption>
+</figure>
 </center>
-<br>
-<br>
-<h3> Project Summary </h3>
+
+<div style="text-align:left"><span style='color:#000000;   font-size:18pt;font-weight:200;font-family:Helvetica;font-align:left'> **Project Summary** </span></div>
+Title: _Effect of drought on CH~4~ flux from Kopuatai Peat bog, Waikato: aboveground and belowground evidence_
 Field site: [Kopuatai Peat Dome](https://www.doc.govt.nz/nature/habitats/wetlands/wetlands-by-region/waikato/kopuatai-peat-dome/), Waikato Region
 <br>
-Title: _Effect of drought on CH~4~ flux from Kopuatai Peat bog, Waikato: aboveground and belowground evidence_
-
+<br>
 My Fulbright project expanded upon previous work at this site by [Goodrich et al. (2015)](https://agupubs-onlinelibrary-wiley-com.unh.idm.oclc.org/doi/full/10.1002/2014JG002844) which found a strong hysteretic response of CH~4~ emissions post drought. My project paired aboveground eddy covariance measurements with nearby belowground measurements of porewater CH~4~ concentration and extracted peat cores used for incubations to see how rates of CH~4~ production varied at this site during a late-summer drought.      
-
 <div class= "col-md-8">
 <br>
 <figure>
   <img src= "images/P1080554.png">
-  <figcaption>Porewater sampling at Kopuatai._Photo Credit_: Dave Campbell.</figcaption>
+  <figcaption>Porewater sampling at Kopuatai. _Photo Credit_:Dave Campbell.</figcaption>
 </figure>
 </div>
 <div class="col-md-4">
@@ -90,19 +90,10 @@ My Fulbright project expanded upon previous work at this site by [Goodrich et al
   <figcaption>Eddy covariance tower at the site with CO~2~/H~2~0 and CH~4~ instruments attached to the horizontal boom (top right corner). The data logger box is to the left of the tower base.</figcaption>
 </figure>
 </div>
-<center>
-<figure>
-  <img src= "images/IMG_2255.jpg">
-  <figcaption>View of the solar panels used to power the EC tower at Kopuatai Peat Dome</figcaption>
-</figure>
-</center>
-<br>
-<br><br><br><br>
-<h4> More Information: </h4>
+
+<br><br><br><br><br>
+
+<h4> _More Information:_ </h4>
 Check out other research done by the Waikato Biogeochemistry and Ecohydrology Research group, [WaiBER](https://waiber.com/), out of Waikato University, with whom I worked on my Fulbright Research project.  
-
 <br>
-
-
-
 </div>

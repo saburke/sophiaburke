@@ -1,9 +1,67 @@
 ---
-title: <div style="text-align:center"><span style='color:#000000; font-size:30pt;font-weight:100;font-family:Helvetica;font-align:center'> Curriculum Vitae </span></div>
+title: <div style="text-align:center"><span style='color:#000000; font-size:30pt;font-weight:100;font-family:Helvetica;font-align:center'> Abbreviated Curriculum Vitae </span></div>
 ---
-<span style="font-family:Helvetica">
+<br>
+<div class= "col-md-14">
+<figure>
+  <img src= "images/IMG_1984.jpg">
+  <center>
+  <figcaption>View of Villasjön, Stordalen Mire.</figcaption>
+  </center>
+</figure>
+</div>
 
-You can find a .pdf version of my CV [here](https://drive.google.com/file/d/19N_IQsvnttz5mG01SHL9GW9YksdY6lR0/view?usp=sharing). Last updated: September 2020. 
+<span style="font-family:Helvetica">
+<div style="text-align:left"><span style='color:#000000;   font-size:20pt;font-weight:300;font-family:Helvetica;font-align:left'> _Education_ </span></div> 
+***
+
+2020    **PhD Earth & Environmental Sciences**, Natural Resouces & Earth Systems Science Program 
+                (NRESS-ESS),University of New Hampshire
+<br><br>
+2019    **Graduate Certificate in Geospatial Science**, University of New Hampshire
+  <br><br>
+2016    **Post Graduate Certificate in Earth Sciences**, University of Waikato, Hamilton, New Zealand
+ <br><br>
+2013    **BSc. Environmental Sciences - Ecosystems**, Unviersity of New Hampshire (Cum Laude)
+
+<br><br>
+<div style="text-align:left"><span style='color:#000000;   font-size:20pt;font-weight:300;font-family:Helvetica;font-align:left'> _Research Experience_ </span></div> 
+***
+
+2018 – 2019   **Graduate Research Assistant**, NASA-IDS Project: From Archaea to the Atmosphere, PI: Dr. Ruth Varner
+<br><br>
+<div class = "col-md-12">
+Scheduled and facilitated regular online project meetings, annual “all-hands” in-person meetings, coordinated and participated in two remote field champaigns in Finland and northern Canada (travel, accommodations, equipment packing/shipping). Field work included drone image collection, vegetation surveys, porewater sampling and peat sampling.
+<br><br>
+</div>
+2016 – 2018	**Dissertation Fieldwork**, Trace Gas Biogeochemistry Group, UNH & Abisko Scientific Research Station, Sweden
+<br>
+<div class = "col-md-12">
+  Mentored students who received UNH Summer Undergraduate Research Fellowship-Abroad grants to conduct research at Stordalen Mire field site, Abisko, Sweden. Traveled with and acclimated students to research station and site: Set up research projects, training in gas chromatography (GC), sampling for porewater, ebullition sampling, field LiCOR Li-840 training, regularly met to assess progress and supported development of poster presentations.
+<br>
+</div>
+
+**Research Skills**
+
+_Data Processing & Programming Software_: R/RStudio, MATLAB, QGIS, AgiSoft PhotoScan, Microsoft Word, PowerPoint, Excel, SigmaPlot
+<br><br>
+_Instrumentation_: Shimadzu Gas Chromatograph – Flame Ionization Detector (GC-FID), Li-COR Li-840 – CO2 Analyzer, Li-COR – Infrared Gas Analyzer (IRGA)
+
+<br><br>
+<div style="text-align:left"><span style='color:#000000;   font-size:20pt;font-weight:300;font-family:Helvetica;font-align:left'> _Teaching Experience_ </span></div> 
+***
+2020	**Adjunct Faculty, Earth Science Department, UNH**
+	ESCI 534: Techniques in Environmental Sciences (Fall 2020), Writing Intensive course for Environmental Science majors
+	<br>
+<div class = "col-md-12">
+Modified existing field activities, grading rubrics, assignments to work with a hybrid in-person/online course with an online lecture once a week and in-person field exercises twice a week. Developed new course content: two-part Fieldwork Equity Discussion and Introduction to Coding with R lab exercise. 
+</div>
+<br>
+
+<br>
+<div style="text-align:left"><span style='color:#000000;   font-size:15pt;font-weight:300;font-family:Helvetica;font-align:left'> _Links_ </span></div> 
+***
+You can find a .pdf version of my full CV [here](https://drive.google.com/file/d/19N_IQsvnttz5mG01SHL9GW9YksdY6lR0/view?usp=sharing). Last updated: January 2021. 
 <br>
 [Google Scholar Profile](https://scholar.google.com/citations?user=S1qTE8UAAAAJ&hl=en&oi=sra)
 <br>
