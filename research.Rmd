@@ -8,6 +8,7 @@ title: <div style="text-align:center"><span style='color:#000000;   font-size:30
 
 <div style="text-align:center"><span style='font-size:20pt;font-weight:300;font-family:Helvetica;font-align:center'> _University of New Hampshire (2014-2020)_</span></div><!--end div style command above-->
 <br>
+<br>
 <div style="text-align:left"><span style='font-size:18pt;font-weight:200;font-family:Helvetica;font-align:left'> **Project Summary** </span></div> <!--end div style command above-->
 <br>
 <div class = "col-md-5"><span style = 'font-size:14pt; font-weight:100'> My PhD work centered on sub-arctic peatlands with a particular focus on methane (CH~4~) emissions from peatland thaw ponds.</span> <!--end the span command above-->   
